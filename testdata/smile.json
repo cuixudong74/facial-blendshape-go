@@ -1,0 +1,7 @@
+{
+  "name": "smile",
+  "kind": "base",
+  "priority": 0,
+  "vertexCount": 3,
+  "deltas": [[0, 1, 0], [0, 1, 0], [0, 1, 0]]
+}

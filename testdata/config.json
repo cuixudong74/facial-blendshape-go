@@ -1,0 +1,12 @@
+{
+  "vertexCount": 3,
+  "weights": {"min": 0, "max": 1, "clamp": true, "normalize": true, "skipInvalid": true},
+  "targets": [
+    {"name": "smile", "file": "smile.json", "kind": "base", "priority": 0}
+  ],
+  "clips": [
+    {"name": "talk", "duration": 1, "tracks": [
+      {"target": "smile", "keys": [{"time": 0, "value": 0}, {"time": 1, "value": 1}]}
+    ]}
+  ]
+}
